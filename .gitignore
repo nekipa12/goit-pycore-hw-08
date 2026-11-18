@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+.DS_Store
+
+# файли з даними адресної книги
+*.pkl
+*.pkl.bak
